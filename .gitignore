@@ -59,3 +59,6 @@ OLD PREVIEWS/STRV S1/preview_front_angle.jpg
 OLD PREVIEWS/STRV S1/preview_rear_angle.jpg
 *.psd
 *.zip
+*.model
+*.visual_processed
+*.dds
